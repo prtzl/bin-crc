@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!README.md
+
+!flake.*
+!.envrc
+
+!/firmware
+!/bin-crc
+
+!.clang-format
